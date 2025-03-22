@@ -1,3 +1,3 @@
 # Dracobble Launcher
 
-# Official Dracobble Launcher
+Official Dracobble Launcher
